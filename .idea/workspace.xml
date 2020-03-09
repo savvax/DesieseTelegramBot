@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73eb73ae-0322-4ccc-839e-db43cb200735" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/DiseaseBot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/KeyBoard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YB5gBlpe3dwhExxZvEEkjDoyya" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="DiseaseTelegramBot" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="DiseaseTelegramBot" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="DiseaseTelegramBot" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73eb73ae-0322-4ccc-839e-db43cb200735" name="Default Changelist" comment="" />
+      <created>1582403255725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582403255725</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test 0" />
+    <option name="LAST_COMMIT_MESSAGE" value="test 0" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Project_Structure" timestamp="1583431933157">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1583431933157" />
+    <state x="1686" y="700" key="#com.intellij.ide.util.MemberChooser" timestamp="1582403473166">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state x="1686" y="700" key="#com.intellij.ide.util.MemberChooser/52.23.2508.1417@52.23.2508.1417" timestamp="1582403473166" />
+    <state x="999" y="312" key="CommitChangelistDialog2" timestamp="1583779254042">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state x="999" y="312" key="CommitChangelistDialog2/52.23.2508.1417@52.23.2508.1417" timestamp="1583779254042" />
+    <state x="1221" y="610" width="753" height="433" key="Github.ShareDialog" timestamp="1583778764688">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state x="1221" y="610" width="753" height="433" key="Github.ShareDialog/52.23.2508.1417@52.23.2508.1417" timestamp="1583778764688" />
+    <state x="1171" y="423" key="Github.UntrackedFilesDialog" timestamp="1583778776397">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state x="1171" y="423" key="Github.UntrackedFilesDialog/52.23.2508.1417@52.23.2508.1417" timestamp="1583778776397" />
+    <state width="1854" height="187" key="GridCell.Tab.0.bottom" timestamp="1583778428079">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state width="1396" height="189" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583433574154" />
+    <state width="2516" height="268" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1583079677004" />
+    <state width="1344" height="187" key="GridCell.Tab.0.bottom/44.23.1396.877@44.23.1396.877" timestamp="1583711859954" />
+    <state width="1344" height="268" key="GridCell.Tab.0.bottom/48.23.1392.877@48.23.1392.877" timestamp="1582969219817" />
+    <state width="1854" height="187" key="GridCell.Tab.0.bottom/52.23.2508.1417@52.23.2508.1417" timestamp="1583778428079" />
+    <state width="1854" height="187" key="GridCell.Tab.0.center" timestamp="1583778428078">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state width="1396" height="189" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583433574153" />
+    <state width="2516" height="268" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1583079677003" />
+    <state width="1344" height="187" key="GridCell.Tab.0.center/44.23.1396.877@44.23.1396.877" timestamp="1583711859953" />
+    <state width="1344" height="268" key="GridCell.Tab.0.center/48.23.1392.877@48.23.1392.877" timestamp="1582969219816" />
+    <state width="1854" height="187" key="GridCell.Tab.0.center/52.23.2508.1417@52.23.2508.1417" timestamp="1583778428078" />
+    <state width="1854" height="187" key="GridCell.Tab.0.left" timestamp="1583778428078">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state width="1396" height="189" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583433574152" />
+    <state width="2516" height="268" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1583079677003" />
+    <state width="1344" height="187" key="GridCell.Tab.0.left/44.23.1396.877@44.23.1396.877" timestamp="1583711859953" />
+    <state width="1344" height="268" key="GridCell.Tab.0.left/48.23.1392.877@48.23.1392.877" timestamp="1582969219816" />
+    <state width="1854" height="187" key="GridCell.Tab.0.left/52.23.2508.1417@52.23.2508.1417" timestamp="1583778428078" />
+    <state width="1854" height="187" key="GridCell.Tab.0.right" timestamp="1583778428079">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state width="1396" height="189" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583433574154" />
+    <state width="2516" height="268" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1583079677004" />
+    <state width="1344" height="187" key="GridCell.Tab.0.right/44.23.1396.877@44.23.1396.877" timestamp="1583711859954" />
+    <state width="1344" height="268" key="GridCell.Tab.0.right/48.23.1392.877@48.23.1392.877" timestamp="1582969219817" />
+    <state width="1854" height="187" key="GridCell.Tab.0.right/52.23.2508.1417@52.23.2508.1417" timestamp="1583778428079" />
+    <state x="1004" y="411" key="NewModule_or_Project.wizard" timestamp="1583778584990">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state x="1004" y="411" key="NewModule_or_Project.wizard/52.23.2508.1417@52.23.2508.1417" timestamp="1583778584990" />
+    <state x="213" y="187" key="SettingsEditor" timestamp="1583091173601">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state x="416" y="63" key="SettingsEditor/48.23.1392.877@48.23.1392.877" timestamp="1582968121862" />
+    <state x="213" y="187" key="SettingsEditor/52.23.2508.1417@52.23.2508.1417" timestamp="1583091173601" />
+    <state x="1337" y="725" key="com.intellij.ide.util.TipDialog" timestamp="1582409028741">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state x="1337" y="725" key="com.intellij.ide.util.TipDialog/52.23.2508.1417@52.23.2508.1417" timestamp="1582409028741" />
+    <state x="1159" y="634" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583779129998">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state x="1159" y="634" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/52.23.2508.1417@52.23.2508.1417" timestamp="1583779129998" />
+    <state x="1159" y="580" key="git4idea.rebase.GitRebaseDialog" timestamp="1583778927926">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state x="1159" y="580" key="git4idea.rebase.GitRebaseDialog/52.23.2508.1417@52.23.2508.1417" timestamp="1583778927926" />
+    <state x="1096" y="613" key="svn.passwordDialog" timestamp="1583779002837">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state x="1096" y="613" key="svn.passwordDialog/52.23.2508.1417@52.23.2508.1417" timestamp="1583779002837" />
+    <state x="1192" y="508" key="svn.repositoryBrowser" timestamp="1583779031938">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state x="1192" y="508" key="svn.repositoryBrowser/52.23.2508.1417@52.23.2508.1417" timestamp="1583779031938" />
+    <state x="1112" y="492" key="svn4idea.import.options" timestamp="1583778973179">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state x="1112" y="492" key="svn4idea.import.options/52.23.2508.1417@52.23.2508.1417" timestamp="1583778973179" />
+  </component>
+</project>
